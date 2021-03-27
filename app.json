@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "airbnb-app",
+    "name": "Airbnb",
     "slug": "airbnb-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -13,15 +13,13 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
